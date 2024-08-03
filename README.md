@@ -1,4 +1,4 @@
-# basic-pandas
+# Pandas Basics
 
 Learning Pandas using Leetcode's Introduction to Pandas Study Plan!!
 
